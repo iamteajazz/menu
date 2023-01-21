@@ -21,6 +21,9 @@ body {
     font-size:16px;
  }
 
+ #lunch {
+     width: 23%;
+ }
  button:hover {
     transition-duration: 0.4s;
     cursor: pointer;
